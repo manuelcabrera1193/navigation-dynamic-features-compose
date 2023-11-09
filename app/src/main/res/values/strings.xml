@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigationDemo</string>
+    <string name="title_dynamica">Dynamic A</string>
+    <string name="title_dynamicb">Dynamic B</string>
+    <string name="title_dynamicc">Dynamic C</string>
+    <string name="title_activity_dynamic_feature">DynamicFeatureA</string>
+    <string name="title_activity_dynamic_feature_b">DynamicFeatureB</string>
+    <string name="title_activity_dynamic_feature_cactivity">DynamicFeatureCActivity</string>
+</resources>
